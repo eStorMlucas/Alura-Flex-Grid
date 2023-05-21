@@ -4,7 +4,7 @@ Course provided by **Alura** with **Matheus Alberto** as a instructor: <a href="
 
 # Site Preview:
 
-[Site Preview screenshot](screenshot.png)
+[Site Preview Screenshot](screenshot.png)
 
 ### [Figma link](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
 
